@@ -18,6 +18,7 @@
 --
 -- Table structure for table `author`
 --
+CREATE database srinlibrary;
 
 DROP TABLE IF EXISTS `author`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
