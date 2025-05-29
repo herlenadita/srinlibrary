@@ -6,7 +6,7 @@ REST API to manage a library's books, authors and members. With CRUD operations 
 
 ## API
 
-<img src="https://cdn.corenexis.com/view/?img=m/ma29/IjwPoB.png"/>
+<img src="https://github.com/herlenadita/srinlibrary/blob/master/project-result.png"/>
 
 
 ## Authors
